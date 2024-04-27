@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+#My name is Jonathan
+
+I am a College student working in the field of software development.
+
+🌱 I’m currently learning and researching creating depth estimation machine learning models in Python.
+
 <!--
 **jon429r/jon429r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
