@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#My name is Jonathan
+My name is Jonathan
 
 I am a College student working in the field of software development.
 
