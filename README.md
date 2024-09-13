@@ -5,6 +5,7 @@ My name is Jonathan
 I am a College student working in the field of software development.
 
 🔭 I’m currently working on a todo app which tracks links and file extensions for quick access to your codebase [project-finder] (https://github.com/jon429r/project-finder)
+🔭 A am also working on creating an interpreted general purpose programming language called JIST which should be made public soon!
 🌱 I’m currently researching creating depth estimation machine learning models in Python.
 
 <h3 align="left">Languages and Tools:</h3>
