@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=jon429r&theme=gruvbox&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&card_width=400)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jon429r)](https://git.io/streak-stats) [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jon429r?cardType=level-alternate&theme=gruvbox&preferLogin=true)](https://git.io/awesome-stats-card)
 [![jon429r's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jon429r&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/jon492r/github-readme-activity-graph)### Hi there 👋
 
 My name is Jonathan
