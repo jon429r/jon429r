@@ -1,3 +1,5 @@
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jon429r)](https://git.io/streak-stats)
+
 ### Hi there 👋
 
 My name is Jonathan
