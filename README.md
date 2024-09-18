@@ -1,4 +1,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jon429r)](https://git.io/streak-stats)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jon429r?cardType=github&theme=gruvbox&preferLogin=true)](https://git.io/awesome-stats-card)
 
 ### Hi there 👋
 
