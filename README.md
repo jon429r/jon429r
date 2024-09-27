@@ -6,7 +6,6 @@ My name is Jonathan
 I am a College student working in the field of software development.
 
 🔭 I’m currently working on my own general purpose programming language called jist [JistR] (https://github.com/jon429r/JistR)
-🔭 A am also working on creating an interpreted general purpose programming language called JIST which should be made public soon!
 🌱 I’m currently researching creating depth estimation machine learning models in Python.
 
 <h3 align="left">Languages and Tools:</h3>
