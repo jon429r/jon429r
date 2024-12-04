@@ -1,4 +1,5 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=jon429r&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D&card_width=450)](https://git.io/streak-stats) [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jon429r?cardType=level-alternate&theme=gruvbox&preferLogin=true)](https://git.io/awesome-stats-card)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=jon429r&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D&card_width=450)](https://git.io/streak-stats) --> 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jon429r?cardType=level-alternate&theme=gruvbox&preferLogin=true)](https://git.io/awesome-stats-card)
 ### Hi there 👋
 
 My name is Jonathan
