@@ -6,8 +6,8 @@ My name is Jonathan
 
 I recently graduated from the University of Southern Maine with a Bachelor's Degree in Computer Science. I am currently focusing on Swift/apple development toolchains but I will always have a love for linux and NeoVim :)
 
- - I am currently working at PlaneEnglish LLC as a iOS software engineer.
- - 🔭 I’m currently working on my own general-purpose programming language called jist [JistR](https://github.com/jon429r/JistR) written in Rust.
+ - I am currently working at PlaneEnglish LLC as a software engineer.
+ - 🔭 I've worked on my own general-purpose programming language called jist [JistR](https://github.com/jon429r/JistR) written in Rust.
  - 🌱 I’m currently researching creating depth estimation machine learning models in Python.
  - ❤️ I love solving real-world problems through code, Example: Unsafe school pickups by using a unique QR code system for students and adults. Built with Python and Swift/SwiftUI.
  - 🔨 See my published packages
